@@ -8,7 +8,7 @@
 </div>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andirhn&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andirhn&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=al-kawsar&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=al-kawsar&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=andirhn&label=PROFILE+VIEWS&style=flat&color=blue">
+<img src="https://komarev.com/ghpvc/?username=al-kawsar&label=PROFILE+VIEWS&style=flat&color=blue">
